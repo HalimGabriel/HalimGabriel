@@ -6,18 +6,12 @@
   I'm a Computer Science student from São Paulo, Brazil, passionate about Java, Spring Boot, Cloud Computing, and building reliable software solutions.
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HalimGabriel&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalimGabriel&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most used languages" />
-</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="150" alt="Charizard" />
 </p>
----
+
 
 ## 🛠️ Tech Stack
 
